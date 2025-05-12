@@ -4,4 +4,4 @@ data:
   VERSION: 1.0.0
 kind: ConfigMap
 metadata:
-  name: app-env
+  name: api-env
